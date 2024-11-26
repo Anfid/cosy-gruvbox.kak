@@ -19,7 +19,7 @@ plug "Anfid/cosy-gruvbox.kak" theme config %{
 
 ### Without plugin manager
 
-Place a symbolic link or copy `cory-gruvbox.kak` to your `colors` folder at Kakoune configuration folder.
+Place a symbolic link or copy `cosy-gruvbox.kak` to your `colors` folder at Kakoune configuration folder.
 
 ## Special thanks
 
